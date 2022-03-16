@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Olivia, and I’m currently learning how to use GITHUB! 
+### My name is Olivia, and I am a junior full stack developer! 
 
 <!--
 **18-21/18-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
